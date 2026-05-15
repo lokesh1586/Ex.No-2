@@ -2,7 +2,7 @@
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Name: LOKESH M
 ## Register Number: 212224040173
-## Date: 12-05-2026
+## Date: 15-05-2026
 ## AIM:
  To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
